@@ -7,11 +7,11 @@ Draggy Droppy is a simple and straightforward jQuery drag to upload library.
 
 ```html
 <head>
-    <link href="/path/to/draggyDroppy.css" rel="stylesheet">
+    <link href="/path/to/draggyDroppy/dist/draggyDroppy.min.css" rel="stylesheet">
     
     <script src="/path/to/jquery.js"></script>
     
-    <script src="/path/to/draggyDroppy.js"></script>
+    <script src="/path/to/draggyDroppy/dist/draggyDroppy.min.js"></script>
 </head>
 <body>
     <div class="myCase"></div>
