@@ -118,4 +118,5 @@ The default values are:
 
 ## Known Issues:
 
-When dragging and dropping, the `accept` parameter is ignored.
+* When dragging and dropping, the `accept` parameter is ignored. I have no plan on resolving this issue though as development on this stopped some time ago. Fixes are welcomed!
+* Uploads are in parallel, which can cause problems (obvs)
